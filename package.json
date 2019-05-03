@@ -1,0 +1,23 @@
+{
+  "name": "electrondino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "dependencies": {
+    "electron": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinonino/ElectronDino.git"
+  },
+  "author": "Tino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinonino/ElectronDino/issues"
+  },
+  "homepage": "https://github.com/tinonino/ElectronDino#readme"
+}
